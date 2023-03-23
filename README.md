@@ -1,2 +1,1 @@
-# SorguBotuAltyapi
-Altyapı Sorgu ts
+# new-sorgu
