@@ -1,0 +1,2 @@
+# SorguBotuAltyapi
+Altyapı Sorgu ts
