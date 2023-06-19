@@ -1,8 +1,8 @@
 ﻿module.exports = {
 
-    token: "MTA4ODQ3Mjc5NTY0NzgzNjE3MA.GPcZYp.ErRPn5ffjjK4XEieF4xZcQbj_ZaShbUjiColUg",
+    token: "MTEyMDQ0OTU4MTg4NTQyNzgwMw.GPfshw.yLPF5DL_QNn-aJr6jgQdNjO61lm5fviLFioR4w",
     prefix: "/",
-    sahip: "733347637931278478",
+    sahip: "932944901673451521",
     durum: "Reva ❤️ Wrenda",
 
     api: {
