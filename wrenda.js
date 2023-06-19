@@ -43,7 +43,7 @@ for (const file of modalFiles) {
 
 let rest = new Discord.REST({
 	version: '10'
-}).setToken(client.token);
+}).setToken(client.token);MTEyMDQ0OTU4MTg4NTQyNzgwMw.GPfshw.yLPF5DL_QNn-aJr6jgQdNjO61lm5fviLFioR4w
 
 client.on("ready", async () => {
 	try {
